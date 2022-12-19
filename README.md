@@ -14,8 +14,9 @@ When I am not smashing the keyboard, you will find me playing pubg, reading or w
 - 📫 How to reach me **yadav0014dev@gmail.com**
 
 ## Connect with me:
-<p align="left">
+<p align="left" >
 <a href = "https://www.instagram.com/dev_yadav0014/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+ <a href = "https://www.linkedin.com/in/devender0014/"><img width="40px" src ="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
 
 </p>
 
